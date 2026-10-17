@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rapp.history
+
+# Local market/sentiment data (not redistributed; see README for the expected format)
+data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db

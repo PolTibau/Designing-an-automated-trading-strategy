@@ -1,0 +1,51 @@
+"Ticker","tcost","Strategy","CumReturn"
+"Deutsche Bank",0,"1: Sentiment (news spikes)",0.77883483968091
+"Deutsche Bank",0,"2: Sentiment + PP (news > EMA)",1.11537970586133
+"Deutsche Bank",0,"3: Sentiment + PP",-0.330512033688652
+"Deutsche Bank",0,"4: Pivot points only",-0.271501900687949
+"Deutsche Bank",0,"Buy & Hold",-0.61066015614221
+"Deutsche Bank",5e-04,"1: Sentiment (news spikes)",0.755869634842776
+"Deutsche Bank",5e-04,"2: Sentiment + PP (news > EMA)",1.08202910870672
+"Deutsche Bank",5e-04,"3: Sentiment + PP",-0.374808991671109
+"Deutsche Bank",5e-04,"4: Pivot points only",-0.367447470992234
+"Deutsche Bank",5e-04,"Buy & Hold",-0.611050461888248
+"Deutsche Bank",0.001,"1: Sentiment (news spikes)",0.733179193563757
+"Deutsche Bank",0.001,"2: Sentiment + PP (news > EMA)",1.04917290363643
+"Deutsche Bank",0.001,"3: Sentiment + PP",-0.416215038058823
+"Deutsche Bank",0.001,"4: Pivot points only",-0.450834242264979
+"Deutsche Bank",0.001,"Buy & Hold",-0.611440571900596
+"Deutsche Bank",0.0025,"1: Sentiment (news spikes)",0.666726325137032
+"Deutsche Bank",0.0025,"2: Sentiment + PP (news > EMA)",0.953502449513886
+"Deutsche Bank",0.0025,"3: Sentiment + PP",-0.524889927580336
+"Deutsche Bank",0.0025,"4: Pivot points only",-0.640950061725752
+"Deutsche Bank",0.0025,"Buy & Hold",-0.612609727535491
+"Deutsche Bank",0.005,"1: Sentiment (news spikes)",0.561190150318304
+"Deutsche Bank",0.005,"2: Sentiment + PP (news > EMA)",0.803316151223696
+"Deutsche Bank",0.005,"3: Sentiment + PP",-0.663414443781554
+"Deutsche Bank",0.005,"4: Pivot points only",-0.823666062870579
+"Deutsche Bank",0.005,"Buy & Hold",-0.614554405586498
+"Google",0,"1: Sentiment (news spikes)",-0.392809252567519
+"Google",0,"2: Sentiment + PP (news > EMA)",-0.304562138265797
+"Google",0,"3: Sentiment + PP",-0.333527451446896
+"Google",0,"4: Pivot points only",-0.274792403344347
+"Google",0,"Buy & Hold",0.32433806943222
+"Google",5e-04,"1: Sentiment (news spikes)",-0.397046400913421
+"Google",5e-04,"2: Sentiment + PP (news > EMA)",-0.312154577366086
+"Google",5e-04,"3: Sentiment + PP",-0.409580510172862
+"Google",5e-04,"4: Pivot points only",-0.383960628161585
+"Google",5e-04,"Buy & Hold",0.32301763812107
+"Google",0.001,"1: Sentiment (news spikes)",-0.401257878062999
+"Google",0.001,"2: Sentiment + PP (news > EMA)",-0.319671248293278
+"Google",0.001,"3: Sentiment + PP",-0.477018236100261
+"Google",0.001,"4: Pivot points only",-0.476780669172334
+"Google",0.001,"Buy & Hold",0.321697865401493
+"Google",0.0025,"1: Sentiment (news spikes)",-0.413739600873603
+"Google",0.0025,"2: Sentiment + PP (news > EMA)",-0.341773476479037
+"Google",0.0025,"3: Sentiment + PP",-0.636798429646454
+"Google",0.0025,"4: Pivot points only",-0.67975421927335
+"Google",0.0025,"Buy & Hold",0.317742498792193
+"Google",0.005,"1: Sentiment (news spikes)",-0.43404127096303
+"Google",0.005,"2: Sentiment + PP (news > EMA)",-0.377158030681447
+"Google",0.005,"3: Sentiment + PP",-0.802672054215821
+"Google",0.005,"4: Pivot points only",-0.859161989594987
+"Google",0.005,"Buy & Hold",0.311163392941472
